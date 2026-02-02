@@ -16,3 +16,8 @@ data/external/
 
 # OS
 .DS_Store
+
+# Data (Kaggle / M5)
+Dataset-m5-forecasting-accuracy/
+data/
+*.csv

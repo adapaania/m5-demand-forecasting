@@ -16,8 +16,13 @@ data/external/
 
 # OS
 .DS_Store
+<<<<<<< HEAD
 
 # Data (Kaggle / M5)
 Dataset-m5-forecasting-accuracy/
 data/
 *.csv
+=======
+.DS_Store
+Terminal Saved Output*.txt
+>>>>>>> ade1766 (Project structure (without raw data))

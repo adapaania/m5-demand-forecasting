@@ -1,28 +1,20 @@
+# macOS
+.DS_Store
+
 # Python
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
 .env
-.venv
+.venv/
 venv/
 
 # Jupyter
 .ipynb_checkpoints/
 
-# Data (IMPORTANT)
-data/raw/
-data/external/
-
-# OS
-.DS_Store
-<<<<<<< HEAD
-
-# Data (Kaggle / M5)
+# Data (DO NOT COMMIT)
 Dataset-m5-forecasting-accuracy/
 data/
-*.csv
-=======
-.DS_Store
+
+# Scratch / temp files
+Untitled.ipynb
 Terminal Saved Output*.txt
->>>>>>> ade1766 (Project structure (without raw data))
